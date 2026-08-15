@@ -1,7 +1,6 @@
 # Black minimal arch
 
-Based on: [HasanAgitUnal/ArchSliderGlowPlymouth](https://github.com/HasanAgitUnal/ArchSliderGlowPlymouth)
-
+Based on: HasanAgitUnal's ArchSliderGlowPlymouth
 # Installation
 
 Install with these commands:
