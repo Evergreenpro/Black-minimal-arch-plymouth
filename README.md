@@ -10,7 +10,7 @@ cd Black-minimal-arch-plymouth
 sudo ./install.sh install
 ```
 
-You can remove theme if you didnt deleted cloned repo folder.
+You can remove the theme if you havent deleted the cloned repo folder.
 Go to the repo directory and run:
 ```bash
 sudo ./install remove
